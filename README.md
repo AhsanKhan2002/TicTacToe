@@ -1,2 +1,2 @@
 # TicTacToe
-Developed and tested in VS Code and Python.
+Developed and tested in VS Code and PyCharm.
